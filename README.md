@@ -2,5 +2,5 @@
 
 ---
 
-## Installation
-To install the project, simply clone this repository and execute `run.sh`. You should have at least C++ 17 and CMake 3.22 installed.
+## How to Run
+To run the program, simply clone this repository and execute `run.sh`.  You should have at least C++ 17 and CMake 3.22 installed.
